@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SchedulemateClient", "SchedulemateClient\SchedulemateClient.njsproj", "{A3C27CA9-7C7B-4A05-B2C5-8B0667AC243E}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SchedulemateClient", "SchedulemateClient\SchedulemateClient.njsproj", "{8ED81F9A-5919-4A70-BD30-68EBC8CD6EE7}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SchedulemateServer", "SchedulemateServer\SchedulemateServer.njsproj", "{0F0CBD90-60F0-498C-8F0E-30F87033F7EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A3C27CA9-7C7B-4A05-B2C5-8B0667AC243E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3C27CA9-7C7B-4A05-B2C5-8B0667AC243E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3C27CA9-7C7B-4A05-B2C5-8B0667AC243E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3C27CA9-7C7B-4A05-B2C5-8B0667AC243E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED81F9A-5919-4A70-BD30-68EBC8CD6EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED81F9A-5919-4A70-BD30-68EBC8CD6EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED81F9A-5919-4A70-BD30-68EBC8CD6EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED81F9A-5919-4A70-BD30-68EBC8CD6EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0CBD90-60F0-498C-8F0E-30F87033F7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0CBD90-60F0-498C-8F0E-30F87033F7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0CBD90-60F0-498C-8F0E-30F87033F7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0CBD90-60F0-498C-8F0E-30F87033F7EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

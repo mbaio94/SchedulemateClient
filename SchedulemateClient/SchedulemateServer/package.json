@@ -1,0 +1,12 @@
+{
+  "name": "schedulemate-server",
+  "version": "0.0.0",
+  "description": "SchedulemateServer",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "opn": "^6.0.0"
+  }
+}
